@@ -1,5 +1,5 @@
 # commentr
-A small study project in VueJS.
+A system for publishing and deleting comments.
 
 ### Setup the project
 ```
