@@ -1,22 +1,11 @@
 # commentr
 A system for publishing and deleting comments.
 
-### Setup the project
-```
-npm install
-```
+### Preview
+<img src="src/assets/preview.png">
 
-### Compile for development
-```
-npm run serve
-```
-
-### Compile and minifiy for production
-```
-npm run build
-```
-
-### Lint and fix files
-```
-npm run lint
-```
+### Running
+- Install dependencies with `npm install`
+- Serve for development with `npm run serve`
+- Compile for production with `npm run build`
+- Lint and fixes with `npm run lint`
