@@ -1,7 +1,7 @@
 <template>
   <div class="form-todo form-group">
   <p>
-    <input placeholder="nome" type="text" name="author" class="form-control" v-model="name" />
+    <input placeholder="Nome" type="text" name="author" class="form-control" v-model="name" />
   </p>
   <p>
     <textarea placeholder="Comentário" name="message"  class="form-control" v-model="message"></textarea>
